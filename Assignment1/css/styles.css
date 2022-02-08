@@ -1,0 +1,80 @@
+body{
+	background-color: #D9F6FF;
+	background-image: url("https://www.thoughtco.com/thmb/9-iCj7lj21Dd8zFGWnbiVzhi5n8=/1333x1000/smart/filters:no_upscale()/clouds-5b6b4e50c9e77c0050491212.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	margin-bottom: 200px;
+	text-align: center;
+}
+
+img{
+	height: 400px;
+}
+
+div{
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+a{
+	color: black;
+
+}
+
+h1:hover{
+	color: black;
+}
+
+h1{
+	font-family: amador,sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 100px;
+text-align: center;
+color: #D9F6FF;
+
+}
+
+h2{
+font-family: park-lane,serif;
+font-weight: 300;
+font-style: normal;
+font-size: 40px;
+text-align: center;
+margin-top: 150px;
+}
+
+.small{
+	height: 200px;
+}
+
+.main{
+	height: 600px;
+}
+
+
+.first{
+	align-content: center;
+	display: inline-block;
+}
+
+.second{
+
+}
+
+.third{
+
+
+}
+
+.left{
+	float: left;
+	mar
+	margin: 100px;
+}
+
+.right{
+	float: right;
+	margin: 100px ;
+}
